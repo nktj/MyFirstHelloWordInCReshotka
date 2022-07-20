@@ -4,9 +4,10 @@
     {
         static void Main(string[] args)
         {
-            int x = 5;
-            x = 15 + 10;
-            x = 100;
+            Osnova osnova = new Osnova();
+            Noshka noshka = new Noshka();
+            Opora opora = new Opora();
+            Rukoyatka rukoyatka = new Rukoyatka();
 
 
         }
