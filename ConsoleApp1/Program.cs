@@ -4,8 +4,11 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ну это не Java");
-            Console.ReadKey();
+            int x = 5;
+            x = 15 + 10;
+            x = 100;
+
+
         }
     }
 }
